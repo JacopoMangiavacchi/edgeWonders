@@ -1,7 +1,12 @@
 {
     "applinks": {
         "apps": [],
-        "details": []
+        "details": [
+            {
+                "appID" : "SV6W498A95.com.jmangia.toonclip",
+                "paths" : ["/"]
+            }
+        ]
     },
     "appclips": {
         "apps": [
